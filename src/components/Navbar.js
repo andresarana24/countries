@@ -3,13 +3,15 @@ import styled from 'styled-components';
 
 const Container = styled.div`
   background-color: green;
-  width: 100%;
   position: sticky;
   top: 0;
   z-index: 10;
-  padding: 1rem;
   opacity: 0.9;
-  min-width: 480px;
+  height: 2.5rem;
+  width: 100%;
+  /* width: 100%;
+  padding: 1rem;
+  min-width: 480px; */
 `;
 
 function Navbar() {

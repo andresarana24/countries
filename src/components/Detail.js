@@ -2,7 +2,20 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Container = styled.div`
-  background-color: red;
+  background: red;
+  visibility: hidden;
+  width: 0%;
+  height: 0%;
+
+  @media screen and (min-width: 680px){
+    visibility: visible;
+    background-color: blue;
+    width: 50%;
+    min-width: 360px;
+    max-width: 480px;
+    height: 100%;
+  }
+  /* background-color: red;
   width: 50%;
   max-width: 480px;
 
@@ -16,12 +29,13 @@ const Container = styled.div`
     margin-left: 20px;
     width: 680px;
     background-color: gray;
-  }
+  } */
 `; 
 
 function Detail() {
   return (
     <Container>
+      Soy un Datail
     </Container>
   );
 }
