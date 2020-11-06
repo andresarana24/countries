@@ -1,20 +1,38 @@
 {
   "files": {
-    "main.css": "/countries/static/css/main.934f9692.chunk.css",
-    "main.js": "/countries/static/js/main.a5dfb902.chunk.js",
-    "main.js.map": "/countries/static/js/main.a5dfb902.chunk.js.map",
+    "main.css": "/countries/static/css/main.d444ba32.chunk.css",
+    "main.js": "/countries/static/js/main.3e7a29e2.chunk.js",
+    "main.js.map": "/countries/static/js/main.3e7a29e2.chunk.js.map",
     "runtime-main.js": "/countries/static/js/runtime-main.e3f9779f.js",
     "runtime-main.js.map": "/countries/static/js/runtime-main.e3f9779f.js.map",
-    "static/js/2.013fd690.chunk.js": "/countries/static/js/2.013fd690.chunk.js",
-    "static/js/2.013fd690.chunk.js.map": "/countries/static/js/2.013fd690.chunk.js.map",
+    "static/js/2.23daa6a1.chunk.js": "/countries/static/js/2.23daa6a1.chunk.js",
+    "static/js/2.23daa6a1.chunk.js.map": "/countries/static/js/2.23daa6a1.chunk.js.map",
     "index.html": "/countries/index.html",
-    "static/css/main.934f9692.chunk.css.map": "/countries/static/css/main.934f9692.chunk.css.map",
-    "static/js/2.013fd690.chunk.js.LICENSE.txt": "/countries/static/js/2.013fd690.chunk.js.LICENSE.txt"
+    "static/css/main.d444ba32.chunk.css.map": "/countries/static/css/main.d444ba32.chunk.css.map",
+    "static/js/2.23daa6a1.chunk.js.LICENSE.txt": "/countries/static/js/2.23daa6a1.chunk.js.LICENSE.txt",
+    "static/media/africa.16e05156.svg": "/countries/static/media/africa.16e05156.svg",
+    "static/media/america.c0d810ce.svg": "/countries/static/media/america.c0d810ce.svg",
+    "static/media/arrow.2e552680.svg": "/countries/static/media/arrow.2e552680.svg",
+    "static/media/asia.5d688630.svg": "/countries/static/media/asia.5d688630.svg",
+    "static/media/caret.17f0a4fb.svg": "/countries/static/media/caret.17f0a4fb.svg",
+    "static/media/earth-globe.1a71c8fc.svg": "/countries/static/media/earth-globe.1a71c8fc.svg",
+    "static/media/europe.e0838294.svg": "/countries/static/media/europe.e0838294.svg",
+    "static/media/france.f3e33693.svg": "/countries/static/media/france.f3e33693.svg",
+    "static/media/germany.80a692c5.svg": "/countries/static/media/germany.80a692c5.svg",
+    "static/media/italy.f3887b4b.svg": "/countries/static/media/italy.f3887b4b.svg",
+    "static/media/language.ee7d671b.svg": "/countries/static/media/language.ee7d671b.svg",
+    "static/media/oceania.4190459a.svg": "/countries/static/media/oceania.4190459a.svg",
+    "static/media/portugal.ec321ab8.svg": "/countries/static/media/portugal.ec321ab8.svg",
+    "static/media/russia.f8ea534d.svg": "/countries/static/media/russia.f8ea534d.svg",
+    "static/media/saudi-arabia.310125e6.svg": "/countries/static/media/saudi-arabia.310125e6.svg",
+    "static/media/spain.d6429392.svg": "/countries/static/media/spain.d6429392.svg",
+    "static/media/united-kingdom.70af008b.svg": "/countries/static/media/united-kingdom.70af008b.svg",
+    "static/media/worldwide.60bfee4c.svg": "/countries/static/media/worldwide.60bfee4c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3f9779f.js",
-    "static/js/2.013fd690.chunk.js",
-    "static/css/main.934f9692.chunk.css",
-    "static/js/main.a5dfb902.chunk.js"
+    "static/js/2.23daa6a1.chunk.js",
+    "static/css/main.d444ba32.chunk.css",
+    "static/js/main.3e7a29e2.chunk.js"
   ]
 }
